@@ -1,1 +1,1 @@
-https://grsvtn.github.io/beckend2/index.html
+https://grsvtn.github.io/beckend2
